@@ -109,7 +109,7 @@ pycache/
 # backwards compatibility for past contributors
 .husky
 
-
+.next
 # VSCode
 .vscode/launch.json
 packages/protocol/config.js
