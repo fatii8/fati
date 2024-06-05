@@ -63,7 +63,7 @@ uyo
 .rts2_cache_cjs/
 .rts2_cache_es/
 .rts2_cache_umd/
-
+yu
 # Optional REPL history
 .node_repl_history
 
