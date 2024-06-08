@@ -23,6 +23,7 @@ rfgs
 
 lib-cov
 fgdxsg
+
 # Coverage directory used by tools like istanbul
 coverage
 *.lcov
