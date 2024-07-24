@@ -21,7 +21,7 @@ t6u8
 #run
 ii
 *.pid
-
+rgt
 *.seed
 
 *.pid.lock
