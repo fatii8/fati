@@ -23,7 +23,7 @@ ii
 *.pid
 rgt
 *.seed
-
+tyu
 *.pid.lock
 ui
 oi
