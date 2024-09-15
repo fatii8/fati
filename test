@@ -87,6 +87,7 @@ jspm_packages/
 dfhdxr
 # TypeScript v1 declaration files
 typfgings/
+
 fdghdx
 # TypeScript cache
 *.tsbuildinfo
