@@ -53,6 +53,7 @@ df
 # Coverage directory used by tools like istanbul
 cvnc
 coverage
+
 *.lcov
 fdfgvedg
 ikyu
